@@ -88,11 +88,12 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
+        "title": "whatswithandi",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "socialSharingUrl": ""
       },
       "components": [
         {
